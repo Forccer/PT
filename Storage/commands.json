@@ -1,0 +1,50 @@
+{
+    "Help": {
+        "name": "Help",
+        "group": "Member",
+        "desc": "Displays a list of commands",
+        "usage": "-help [command]"
+    },
+    "Avatar": {
+        "name": "Avatar",
+        "group": "Member",
+        "desc": "Displays the avatar of an user",
+        "usage": "-avatar [person]"
+    },
+    "Ban": {
+        "name": "Ban",
+        "group": "Staff",
+        "desc": "Banishes a person from the server",
+        "usage": "-ban <person> <reason>"
+    },
+    "Creator": {
+        "name": "Creator",
+        "group": "Member",
+        "desc": "Displays the creator of the bot",
+        "usage": "-creator"
+    },
+    "Roll": {
+        "name": "Roll",
+        "group": "Member",
+        "desc": "Rolls a dice",
+        "usage": "-roll"
+    },
+    "embed": {
+        "name": "Embed",
+        "group": "Staff",
+        "desc": "Embeds a text, choose out of the colors\nblue, red, yellow, green, black, aqua, brown, cyan, gold, grey, lightblue, lime, navy, pink, seagreen, teal, turquoise and white",
+        "usage": "-creator"
+    },
+    "g.search": {
+        "name": "G.search",
+        "group": "Member",
+        "desc": "Searches a gif from giphy",
+        "usage": "-g.search [gif name]"
+    },
+    "icon": {
+        "name": "Icon",
+        "group": "Member",
+        "desc": "Displays the icon of the server",
+        "usage": "-icon"
+    }
+}
